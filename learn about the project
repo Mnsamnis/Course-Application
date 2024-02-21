@@ -1,0 +1,13 @@
+This project is has two different technologies.
+
+1. Backend :-
+Technology used:- Java, Springboot and MySQL
+Purpose:- This was created for adding the  course api into database. There is not html pages. this only contains backend part of the application. You can use postman app to hit the url and do the operations like 
+add_course, delete_course, update_course.. But the urls and entity used is with the name of LEARN(Beacuase this was created when I was learning Springboot). So the url used is addLearn, deleteLearn. You can check
+the LearnController.java and Learn.java files.
+
+
+2. Frontend : This was created using React.js
+Purpose:- I had created the backend application using Springboot.  But I wanted to show this application to my friends and relative. So I thought to create an beautiful UI. So that I can learn the React.js and 
+also I can show this to my friends. Again the module name used while coding is learn.js, addLearn, delete learn, but the application is totally based on creating and managing Course, where you can add new course, 
+delete and update the course as per your need.
